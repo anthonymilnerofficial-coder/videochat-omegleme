@@ -13,9 +13,6 @@ The list is informational and focuses on technical compatibility rather than rec
 ### General Video Chat Platforms
 
 - https://omegle.me
-- https://ome.tv
-- https://chatruletka.com
-- https://minichat.com
 
 ---
 
