@@ -4,7 +4,7 @@ This page provides informational notes about video chat platforms and their gene
 
 ## Listed Platforms
 
-- https://omegle.me
+- [Omegle.me](https://omegle.me)
 
 ## Notes
 
