@@ -2,6 +2,8 @@
 Browser extension compatibility list for video chat platforms
 # Video Chat Compatibility List
 
+This page provides an informational overview of online random video chat platforms, focusing on general compatibility, usage context, and technical characteristics. It is intended for reference and educational purposes.
+
 This repository provides a list of video chat websites that are compatible with browser-based video chat tools, extensions, or embedded video services.
 
 The list is informational and focuses on technical compatibility rather than recommendations.
@@ -28,3 +30,4 @@ The list is informational and focuses on technical compatibility rather than rec
 
 Contributions are welcome.  
 Please ensure that any added website follows similar technical patterns and does not include promotional descriptions.
+
